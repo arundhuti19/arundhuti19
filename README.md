@@ -21,14 +21,7 @@
 
 ---
 
-### 🌟 Fun Facts
 
-- 🐶 Dog person to the core (hi Sunny! 🐾)
-- 🎤 Sings Billie Eilish like it’s a job
-- 🎬 Currently bingeing: *your GitHub profile* 👀
-- 🧠 Catch me turning stress into CSS 💅
-
----
 
 ### 📈 GitHub Stats
 
@@ -42,17 +35,15 @@
 ### 💌 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-FF69B4?style=for-the-badge&logo=about.me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arundhuti-sinha-2483162a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="arundhutisinha143@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 <details>
-  <summary>✨ A little more tea...</summary>
+  <summary>✨ A little more...</summary>
   <br>
-  - I'm on a journey to build cool projects that make people go "whoa."  
-  - I believe code is poetry, and my IDE is my canvas.  
-  - I might be soft-spoken IRL, but my GitHub game is LOUD.  
+  - I'm on a journey to build cool projects that make people go "whoa."   
+ 
 </details>
