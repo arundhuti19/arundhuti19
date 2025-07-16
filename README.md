@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, I'm <span style="color:#ff69b4">Arundhuti 👑</span>!</h1>
-<p align="center">Aspiring techie | Web dev baddie 💻</p>
+<h1 align="center">Hey there, I'm <span style="color:#ff69b4">Arundhuti</span>!</h1>
+<p align="center">Aspiring tech enthusiast | BCA student 💻</p>
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 💌 Let's Connect!
+### 💌 Let's Connect! 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arundhuti-sinha-2483162a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
